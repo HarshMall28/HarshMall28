@@ -48,7 +48,7 @@ Click on any project to **watch a demo!** 🎥
 ## **📬 Get in Touch**
 📧 **Email:** [contact.harshmall@gmail.com](mailto:contact.harshmall@gmail.com)  
 🔗 **LinkedIn:** [linkedin.com/in/harsh-mall](https://www.linkedin.com/in/harsh-mall)  
-💻 **Portfolio:** [harshmall.github.io](#)  
+💻 **Portfolio:** [harshmall.github.io](https://github.com/HarshMall28)  
 
 💡 **Fun Fact:** "I love debugging more than coding!" 😆🔥  
 
