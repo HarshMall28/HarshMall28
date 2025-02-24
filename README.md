@@ -38,7 +38,7 @@ Click on any project to **watch a demo!** 🎥
 📌 **React & TypeScript** app with **real-time seat selection & Stripe payments**  
 
 ### 💊 Medicine Ordering Platform  
-[![Medicine Ordering Platform](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)  
+[![Medicine Ordering Platform](https://online-medicine-web-app-z1kg.vercel.app/)  
 📌 A fast & secure **e-commerce platform for medicine orders**  
 
 🌐 **[More Projects](#)** – *Check out my GitHub for more cool stuff!* 🚀  
