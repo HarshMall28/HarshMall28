@@ -19,7 +19,7 @@
 🔹 Love building **scalable, secure, and user-friendly web applications**  
 🔹 Always eager to **learn new tech & mentor developers**  
 
-💡 **Currently working on:** A cutting-edge **React.js project with AWS Lambda** 🚀
+💡 **Currently working on:** A cutting-edge **React.js portfolio website with TypeScript** 🚀
 
 ---
 
