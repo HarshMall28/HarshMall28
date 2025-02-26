@@ -34,8 +34,9 @@
 Click on any project to **watch a demo!** 🎥  
 
 ### 🎬 Movie Booking Platform  
-[![Movie Booking Platform](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)  
-📌 **React & TypeScript** app with **real-time seat selection & Stripe payments**  
+[![Live Website](https://img.shields.io/badge/Live%20Site-Click%20Here-brightgreen?style=for-the-badge)](https://movie-booking-platform.vercel.app/)  
+
+📌 **React & JavaScript** app with **real-time seat selection & payments interface**  
 
 ### 💊 Medicine Ordering Platform  
 [![Live Website](https://img.shields.io/badge/Live%20Site-Click%20Here-brightgreen?style=for-the-badge)](https://online-medicine-web-app-z1kg.vercel.app/)
