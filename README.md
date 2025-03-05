@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/harsh-mall"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"></a>
   <a href="mailto:contact.harshmall@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"></a>
-  <!--<a href=""><img src="https://img.shields.io/badge/Portfolio-Online-green?style=flat&logo=react"></a>-->
+  <a href="https://harshmall.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Online-green?style=flat&logo=react"></a>
 </p>
 
 ---
